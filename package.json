@@ -1,0 +1,26 @@
+{
+  "name": "fmp-geekshubs-fsd-val-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sierpe515/fmp-geekshubs-fsd-val-express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sierpe515/fmp-geekshubs-fsd-val-express/issues"
+  },
+  "homepage": "https://github.com/Sierpe515/fmp-geekshubs-fsd-val-express#readme",
+  "dependencies": {
+    "express": "4.18.2",
+    "nodemon": "2.0.20"
+  }
+}
